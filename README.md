@@ -2,7 +2,7 @@
 
 I am a Master's student in Artificial Intelligence and Machine Learning at Adelaide University. I completed my BSc in CSE from North South University. Previously, I have worked as a Research Associate, Research Assistant, Lab Instructor, and Teaching Assistant across North South University and Brac University.
 
-My main interest lies in Machine Learning. I am currently working on a project to detect groundwater arsenic level screening for Bangladesh using ML.
+My main interest lies in Machine Learning. I am currently working on a project to detect groundwater arsenic levels in Bangladesh using ML.
 
 
 <!--
